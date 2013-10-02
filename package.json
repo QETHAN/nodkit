@@ -1,0 +1,17 @@
+{
+  "name": "nodkit",
+  "version": "1.0.0",
+  "description": "static file server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "qbylucky",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "node",
+    "web"
+  ]
+}
